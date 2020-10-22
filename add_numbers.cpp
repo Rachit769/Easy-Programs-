@@ -8,9 +8,9 @@ int main()
     cout << "Enter two integers: ";
     cin >> firstNumber >> secondNumber;
 
-    sumOfTwoNumbers = firstNumber + secondNumber
+    sumOfTwoNumbers = firstNumber + secondNumber;
 
-    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers    
+    cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers ;
 
     return 0;
 }
